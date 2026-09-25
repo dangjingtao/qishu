@@ -94,7 +94,7 @@ Graff 的综述指出，755–763 年的战争长期反复波及唐帝国人口�
 
 - 《新唐书》卷五十二《食货二》：  
   https://ctext.org/wiki.pl?chapter=262251&if=gb
-- Richard von Glahn, “Public Finance,” in *The Cambridge Economic History of China* (Cambridge University Press, 2022).  
+- Christian Lamouroux & Richard von Glahn, “Public Finance,” in *The Cambridge Economic History of China* (Cambridge University Press, 2022).  
   https://www.cambridge.org/core/books/abs/cambridge-economic-history-of-china/public-finance/DBE2FA37763786D641ED7D999E1C55CC
 - Natsuko Takase, “The Financial System and Centralization of Authority after An Lu-shan's Rebellion,” *Shigaku Zasshi* 110.11 (2001), 1909–1940.  
   https://doi.org/10.24471/shigaku.110.11_1909
