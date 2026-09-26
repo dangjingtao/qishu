@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "book": {
+    "id": "qishu",
+    "title": "气数",
+    "description": "从王朝、大国、制度与个人出发，研究危机来临前还剩多少选择，以及旧办法失效后还能否重新制造选择。",
+    "category": "历史 / 制度",
+    "kind": "collection",
+    "order": 40,
+    "status": "active"
+  },
+  "entries": [
+    {
+      "source": "essays/tang-after-755.md",
+      "slug": "tang-after-755",
+      "order": 10,
+      "description": "安史之乱以后，大唐没有恢复成原来的盛唐，却通过税制、盐利、漕运、市场网络与地方权力重组，换了一套继续活下去的办法。",
+      "tags": [
+        "唐代",
+        "安史之乱",
+        "财政",
+        "国家能力",
+        "历史"
+      ],
+      "authorship": {
+        "status": "unresolved",
+        "authors": []
+      }
+    }
+  ]
+}
