@@ -1,12 +1,13 @@
+---
+draftStatus: Draft v3
+issue: 4
+evidenceReviews: 2
+editorialReviews: 1
+---
+
 # 盛唐回不来了，然后呢？
 
 > 安史之乱以后，大唐怎样换了一套活法
-
-状态：Draft v3  
-关联研究：#4  
-说明：本文为研究母稿第三版，已完成两轮 Evidence Review 与一轮纯编辑审读，尚未进入 `test` Preview。
-
----
 
 安史之乱以后，长安最先显露出来的难题之一，不是什么宏大的“盛世”。
 
