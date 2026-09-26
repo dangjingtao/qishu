@@ -23,8 +23,16 @@
         "历史"
       ],
       "authorship": {
-        "status": "unresolved",
-        "authors": []
+        "status": "resolved",
+        "authors": [
+          "tomz",
+          "mira"
+        ],
+        "writtenBy": [
+          "tomz",
+          "mira"
+        ],
+        "reviewedBy": "tomz"
       }
     }
   ]

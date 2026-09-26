@@ -181,7 +181,8 @@ GitHub 是研究与内容单一真相源，但不是普通读者的最终阅读�
 - 研究札记、争议与修订信息是否正确；
 - 页面结构、标题、摘要和移动端阅读是否符合预期；
 - 渠道派生是否改变了事实或关键判断；
-- 实际 Preview 是否来自 `test` 的精确 commit SHA，而不是浮动分支或渠道仓库中的复制正文。
+- 实际 Preview 是否来自 `test` 的精确 commit SHA，而不是浮动分支或渠道仓库中的复制正文；
+- 真人 Preview 是否使用 tomz.io External Book Cloudflare Preview；GitHub Pages 仅作为兼容性验证，不作为《气数》发布验收地址。
 
 ### Production
 
