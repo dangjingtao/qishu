@@ -4,11 +4,11 @@
 
 状态：Draft v2  
 关联研究：#4  
-说明：本文为研究母稿第二版，已完成第一轮 Evidence Review，尚未进入 `test` Preview。
+说明：本文为研究母稿第二版，已完成第二轮 Evidence Review，尚未进入 `test` Preview。
 
 ---
 
-安史之乱以后，长安最先缺的，不是什么宏大的“盛世”。
+安史之乱以后，长安最先显露出来的难题之一，不是什么宏大的“盛世”。
 
 是粮。
 
@@ -209,7 +209,7 @@
 
 而是国家能力的载体变了。
 
-当第一批粮船重新抵达长安，代宗派人鼓乐迎接，那种高兴并不难理解。
+当重新组织后的漕粮抵达东渭桥，代宗派人鼓乐迎接，那种高兴并不难理解。
 
 那不是因为几十万斛粮本身多么壮观。
 
@@ -601,11 +601,14 @@ Graff 的研究指出，这些措施在长安引起了强烈不满。
 8. 林楓珏，《唐代中後期中央與地方政府之間的財政關係──以兩稅法和稅茶為例》，臺灣大學博士論文，2023。  
    https://tdr.lib.ntu.edu.tw/handle/123456789/87588
 
-9. 《新唐书》卷五十二《食货二》、卷五十三《食货三》、卷五十四《食货四》、卷一百四十九《刘晏传》。  
+9. 《新唐书》卷五十二《食货二》、卷五十四《食货四》、卷一百四十九《刘晏传》。  
    https://ctext.org/wiki.pl?chapter=262251&if=gb  
-   https://ctext.org/wiki.pl?chapter=205443&if=en  
-   https://ctext.org/wiki.pl?chapter=691717&if=en&remap=gb
+   https://ctext.org/wiki.pl?chapter=691717&if=en&remap=gb  
+   https://ctext.org/wiki.pl?chapter=205443&if=en
 
-10. 《旧唐书》卷四十九《食货下》、卷一百二十三《刘晏传》。  
+10. 李眞善，〈安史의 난 이후 吐蕃의 東進과 唐朝의 행정 구역 재편〉，《中國史研究》154 (2025), 35–64。  
+    https://doi.org/10.24161/CHR.154.035
+
+11. 《旧唐书》卷四十九《食货下》、卷一百二十三《刘晏传》。  
     https://ctext.org/wiki.pl?chapter=44945&if=gb&remap=gb  
     https://ctext.org/wiki.pl?chapter=697738&if=gb&remap=gb
