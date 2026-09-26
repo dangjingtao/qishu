@@ -70,10 +70,13 @@
 ## 三、渠道架构
 
 ```text
-                 ┌─ tomz.io：完整阅读 / 研究入口
-qishu / main ────┼─ 微信公众号：大众传播版
-                 ├─ RSS / Feed：未来可选
-                 └─ Book edition：未来书稿
+qishu / dev → test → prod
+                  │       │
+                  │       ├─ tomz.io：正式阅读 / 研究入口
+                  │       ├─ 微信公众号：大众传播版
+                  │       └─ Book edition：未来书稿
+                  │
+                  └─ tomz.io GitHub Pages：noindex Preview
 ```
 
 ### GitHub
@@ -120,24 +123,35 @@ qishu / main ────┼─ 微信公众号：大众传播版
 - 引用可回溯；
 - 完整研究可从 tomz.io / GitHub 找到。
 
-推荐未来 CI：
+推荐发布链：
 
 ```text
-research / PR
-      ↓
-merge main
-      ↓
-schema + citation check
-      ↓
-build
- ┌───────────────┐
-web edition   wechat edition
- ↓              ↓
-tomz.io       微信草稿箱
-自动发布       人工终审
-                  ↓
-                正式发布
+research / essay PR
+        ↓
+      dev
+        ↓
+      test @ exact SHA
+        ↓
+tomz.io trusted renderer
+(build-time import only)
+        ↓
+GitHub Pages Preview
+(noindex / human review)
+        ↓
+      prod @ exact SHA
+        ↓
+tomz.io production renderer
+        ↓
+Cloudflare Pages
 ```
+
+核心边界：
+
+- `publication.json` 与正文只在 qishu 维护；
+- tomz.io 只保留通用 importer / renderer，不保存《气数》正文副本；
+- Preview / Production 构建都固定到 qishu 的精确 commit SHA；
+- `gh-pages`、Cloudflare Pages、未来公众号草稿都属于派生输出，不是内容真相源；
+- 当前已实现 test → External Book Preview 的 importer / workflow 基础能力；prod → Cloudflare 的外部 Book 正式发布链仍待后续实现。
 
 公众号正式群发保留人工确认。
 
