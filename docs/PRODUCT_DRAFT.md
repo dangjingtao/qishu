@@ -76,7 +76,7 @@ qishu / dev → test → prod
                   │       ├─ 微信公众号：大众传播版
                   │       └─ Book edition：未来书稿
                   │
-                  └─ tomz.io GitHub Pages：noindex Preview
+                  └─ tomz.io Cloudflare Pages：noindex Preview
 ```
 
 ### GitHub
@@ -135,7 +135,7 @@ research / essay PR
 tomz.io trusted renderer
 (build-time import only)
         ↓
-GitHub Pages Preview
+Cloudflare Pages Preview
 (noindex / human review)
         ↓
       prod @ exact SHA
@@ -150,8 +150,10 @@ Cloudflare Pages
 - `publication.json` 与正文只在 qishu 维护；
 - tomz.io 只保留通用 importer / renderer，不保存《气数》正文副本；
 - Preview / Production 构建都固定到 qishu 的精确 commit SHA；
-- `gh-pages`、Cloudflare Pages、未来公众号草稿都属于派生输出，不是内容真相源；
-- 当前已实现 test → External Book Preview 的 importer / workflow 基础能力；prod → Cloudflare 的外部 Book 正式发布链仍待后续实现。
+- Cloudflare Pages Preview、Cloudflare Pages Production、未来公众号草稿都属于派生输出，不是内容真相源；
+- 《气数》真人 Preview 使用 tomz.io 的 External Book Cloudflare Preview，稳定 branch namespace 为 `preview/external-book/qishu`，稳定地址为 `https://preview-external-book-qishu.tomz-io.pages.dev/`；
+- GitHub Pages 仅保留 tomz.io 的 `/tomz-io/` base 与静态输出兼容性验证，不再承担《气数》真人 Preview；
+- 当前已实现 test → External Book Cloudflare Preview 的 importer / workflow 基础能力；prod → Cloudflare 的外部 Book 正式发布链仍待后续实现。
 
 公众号正式群发保留人工确认。
 
