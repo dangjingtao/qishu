@@ -384,7 +384,7 @@ Draft v4 较 v3 大幅增长，但增长主要来自：
 
 # Evidence Review 3 结论
 
-**PASS WITH MINOR FIXES**
+**PASS**
 
 FIX-1 / FIX-2 已在回收分支落地；FIX-3 原稿已满足。
 
