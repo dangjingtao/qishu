@@ -1,7 +1,7 @@
 ---
 draftStatus: Draft v4
 issue: 4
-evidenceReviews: 1
+evidenceReviews: 2
 editorialReviews: 1
 visualReviews: 1
 ---
