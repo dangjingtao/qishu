@@ -12,6 +12,30 @@
   },
   "entries": [
     {
+      "source": "essays/preface.md",
+      "slug": "preface",
+      "order": 0,
+      "description": "为什么把“气数”理解为一种余地：在结局发生以前，一个时代究竟还剩多少现实可行的选择。",
+      "tags": [
+        "历史",
+        "制度",
+        "国家能力",
+        "选择空间"
+      ],
+      "authorship": {
+        "status": "resolved",
+        "authors": [
+          "tomz",
+          "mira"
+        ],
+        "writtenBy": [
+          "tomz",
+          "mira"
+        ],
+        "reviewedBy": "tomz"
+      }
+    },
+    {
       "source": "essays/tang-after-755.md",
       "slug": "tang-after-755",
       "order": 10,
