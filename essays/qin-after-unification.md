@@ -1,14 +1,18 @@
 ---
-draftStatus: Draft v1.2
+draftStatus: Draft v1.3
 issue: 35
 evidenceReviews: 1
 editorialReviews: 1
-visualReviews: 0
+visualReviews: 1
 ---
 
 # 秦赢了战国，为什么没稳住帝国？
 
 > 郡县、律令和文书可以几年内铺开；一个新帝国要让地方社会在危机中继续维护它，可能需要更久。
+
+![统一已成，整合仍在途中](https://assets.tomz.io/images/9722d66137ef_qishu-qin-opening-unification-integration.webp)
+
+*图｜全文总览示意。地图、道路、人物与城防都用于表达“政治统一先完成、行政网络继续铺开”的机制关系，不是秦帝国疆界、道路、城邑或具体历史现场的精确复原。*
 
 前 209 年，陈胜、吴广起事。
 
@@ -114,6 +118,10 @@ Marcel Schneider 对三万七千余件里耶文书的研究甚至提醒我们，
 
 至少有些很远的地方，秦不仅管到了，而且管得相当细。
 
+![里耶县政：行政网络怎样落到县廷](https://assets.tomz.io/images/008a6822c271_qishu-qin-liye-county-administration.webp)
+
+*图｜基于里耶秦简所见县级文书、官吏协作与邮传机制所作的视觉重制。它不是里耶遗址现场、服饰建筑或某一枚具体简牍内容的考古复原。*
+
 [Marcel Schneider, The Imperial Qin Dynasty: Elements of Governance as Reflected in the Liye Manuscripts](https://doi.org/10.1515/9783110791853)
 
 [Keum Jaewon, “A Serial Analysis of the Liye Qin Slips — The Daily Administrative Practices of County Officials in the Qin Dynasty,” 2025, DOI: 10.15840/amch.2025..76.001](https://doi.org/10.15840/amch.2025..76.001)
@@ -158,6 +166,10 @@ Anthony Barbieri-Low 对秦强制迁徙的研究指出，这种迁徙不是始�
 六国最后一轮征服给秦的时间，有些地方只有几年。
 
 这之间的差别，可能比“郡县有没有设置”重要得多。
+
+![从征服到整合：秦给不同地区留下了多少时间？](https://assets.tomz.io/images/75bba26ec22b_qishu-qin-conquest-integration.webp)
+
+*图｜时间—空间示意。用巴蜀、原赵与洞庭—迁陵对照不同地区从征服到整合所拥有的时间，不表示各区域存在统一可量化的“整合度”；地图边界与节点均为研究示意。*
 
 [Anthony J. Barbieri-Low, “Coerced Migration and Resettlement in the Qin Imperial Expansion,” Journal of Chinese History, DOI: 10.1017/jch.2019.1](https://doi.org/10.1017/jch.2019.1)
 
@@ -265,6 +277,10 @@ Anthony Barbieri-Low 对秦强制迁徙的研究指出，这种迁徙不是始�
 
 它是目前用来解释一组现象的机制判断。
 
+![三个不同的时间表](https://assets.tomz.io/images/7ab4ce96034e_qishu-qin-three-timelines.webp)
+
+*图｜把全文核心机制压缩为三条时间线：政治统一最快，行政整合次之，地方政治合作最难直接观测。它是解释框架，不是已经被直接测量出来的历史指标。*
+
 它之所以值得认真，不是因为我们有一片竹简写着“我们不爱秦”。
 
 而是因为它能同时解释两种看似矛盾的事实：
@@ -310,6 +326,10 @@ Brian Lander 对秦政治生态的研究指出，秦的治理高度依赖信息�
 同一组证据同时展示了两个方向：
 
 > **国家能力很强。国家能力的使用也有成本。**
+
+![国家能力与成本](https://assets.tomz.io/images/29943f94434f_qishu-qin-state-capacity-cost.webp)
+
+*图｜视觉重制。用远距离运输、劳役与资源供应表现“能力越强，动员成本也越真实”的机制；并非某一秦代工程现场的复原，也不用于证明全国负担已经达到崩溃阈值。*
 
 所以“秦太能征发”比“秦征发不了”更值得研究。
 
@@ -388,6 +408,10 @@ Brian Lander 对秦政治生态的研究指出，秦的治理高度依赖信息�
 
 这再次把我们带回同一个问题。
 
+![机器没停，秩序先裂](https://assets.tomz.io/images/6ad96fdfbc31_qishu-qin-machine-runs-order-fractures.webp)
+
+*图｜压力测试示意。上层表示行政、后勤和军事能力仍能运转，下层表示政治信任与秩序加速断裂；两者并非全国同步发生，也不意味着存在一条单向、线性的崩溃链。*
+
 **秦的组织能力没有在某一天集体归零。**
 
 一个帝国可以在局部保留很强的军事、行政、物流能力，同时失去把这些能力重新组织成全国政治秩序的能力。
@@ -450,6 +474,10 @@ Brian Lander 在比较秦汉财政行政时提出一个很有启发性的差别�
 
 **秦试图让太多不同速度的过程，在同一个时间里一起完成。**
 
+![秦到汉：保留什么，调整什么](https://assets.tomz.io/images/e7ff1f805413_qishu-qin-qin-to-han-retain-adjust.webp)
+
+*图｜制度连续与运行方式调整的示意。汉并没有推翻秦制：郡县、官僚、法律、户籍与文书大量延续；变化主要体现在资源汲取强度、地方政治空间与再集中的节奏。它不意味着“分权就是答案”。*
+
 [Brian Lander, “Making Use of the Land,” DOI: 10.1017/jch.2022.19](https://doi.org/10.1017/jch.2022.19)
 
 [陈苏镇，〈汉初王国制度考述〉，《中国史研究》2004年第3期](https://ir.pku.edu.cn/handle/20.500.11897/43285)
@@ -499,7 +527,7 @@ Brian Lander 在比较秦汉财政行政时提出一个很有启发性的差别�
 
 ---
 
-## 主要研究来源｜Draft v1.2
+## 主要研究来源｜Draft v1.3
 
 - Chun Fung Tong, “The Emergence of Logistics Networks and Financial Administration During the Qin Conquest (230–221 BCE),” Early China 48, DOI: 10.1017/eac.2025.10032.
 - Marcel Schneider, The Imperial Qin Dynasty: Elements of Governance as Reflected in the Liye Manuscripts, De Gruyter, DOI: 10.1515/9783110791853.
