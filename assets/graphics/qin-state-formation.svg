@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">从商鞅到统一：秦的国家力量如何形成</title>
+<desc id="desc">历史时间轴与制度机制图。按商鞅变法、秦并巴蜀、攻楚、长平、灭六国和统一六个历史节点呈现秦长期形成国家能力的过程；机制包含农业生产、编户县政、仓储运输、赋役兵员与军功赏罚。</desc>
+<style>
+  .title {font:700 38px "Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#403226}
+  .subtitle {font:400 19px "Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#796451}
+  .section {font:700 21px "Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#4d3b2b}
+  .year {font:700 16px "Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#7b5b43}
+  .event {font:700 20px "Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#3e3126}
+  .boxHead {font:700 24px "Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#403226}
+  .boxText {font:400 19px "Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#59493b}
+  .cap {font:700 26px "Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#493529}
+  .capSub {font:400 18px "Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#574638}
+  .note {font:400 16px "Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#685446}
+</style>
+<rect width="1600" height="900" fill="#eee4d4"/>
+<rect x="34" y="30" width="1532" height="840" rx="28" fill="#fbf7ef" stroke="#d9c7b0" stroke-width="2"/>
+<text x="90" y="98" class="title">从商鞅到统一：秦的国家力量如何形成</text>
+<text x="90" y="131" class="subtitle">两条阅读线索：数代积累的历史过程，以及把农业剩余转化为国家力量的制度机制</text>
+<line x1="90" y1="153" x2="1510" y2="153" stroke="#d9c7b0"/>
+<text x="90" y="183" class="section">一、时间：改革、扩张与统一</text>
+<path d="M184 283 H1414" stroke="#b48a68" stroke-width="8" stroke-linecap="round"/>
+<line x1="184" y1="270" x2="184" y2="278" stroke="#8b664c" stroke-width="2.5"/><circle cx="184" cy="283" r="10" fill="#88634a" stroke="#fbf7ef" stroke-width="3"/><rect x="80" y="200" width="208" height="66" rx="12" fill="#f7efe4" stroke="#d3bea5"/><text x="184" y="223" class="year" text-anchor="middle">前356 / 350</text><text x="184" y="246" class="event" text-anchor="middle">商鞅变法</text>
+<line x1="430" y1="288" x2="430" y2="300" stroke="#8b664c" stroke-width="2.5"/><circle cx="430" cy="283" r="10" fill="#88634a" stroke="#fbf7ef" stroke-width="3"/><rect x="326" y="300" width="208" height="66" rx="12" fill="#f7efe4" stroke="#d3bea5"/><text x="430" y="323" class="year" text-anchor="middle">前316</text><text x="430" y="346" class="event" text-anchor="middle">并入巴蜀</text>
+<line x1="676" y1="270" x2="676" y2="278" stroke="#8b664c" stroke-width="2.5"/><circle cx="676" cy="283" r="10" fill="#88634a" stroke="#fbf7ef" stroke-width="3"/><rect x="572" y="200" width="208" height="66" rx="12" fill="#f7efe4" stroke="#d3bea5"/><text x="676" y="223" class="year" text-anchor="middle">前278</text><text x="676" y="246" class="event" text-anchor="middle">攻破楚郢都</text>
+<line x1="922" y1="288" x2="922" y2="300" stroke="#8b664c" stroke-width="2.5"/><circle cx="922" cy="283" r="10" fill="#88634a" stroke="#fbf7ef" stroke-width="3"/><rect x="818" y="300" width="208" height="66" rx="12" fill="#f7efe4" stroke="#d3bea5"/><text x="922" y="323" class="year" text-anchor="middle">前260</text><text x="922" y="346" class="event" text-anchor="middle">长平之战</text>
+<line x1="1168" y1="270" x2="1168" y2="278" stroke="#8b664c" stroke-width="2.5"/><circle cx="1168" cy="283" r="10" fill="#88634a" stroke="#fbf7ef" stroke-width="3"/><rect x="1064" y="200" width="208" height="66" rx="12" fill="#f7efe4" stroke="#d3bea5"/><text x="1168" y="223" class="year" text-anchor="middle">前230—221</text><text x="1168" y="246" class="event" text-anchor="middle">最后十年战争</text>
+<line x1="1414" y1="288" x2="1414" y2="300" stroke="#8b664c" stroke-width="2.5"/><circle cx="1414" cy="283" r="10" fill="#88634a" stroke="#fbf7ef" stroke-width="3"/><rect x="1310" y="300" width="208" height="66" rx="12" fill="#f7efe4" stroke="#d3bea5"/><text x="1414" y="323" class="year" text-anchor="middle">前221</text><text x="1414" y="346" class="event" text-anchor="middle">建立统一帝国</text>
+<line x1="90" y1="388" x2="1510" y2="388" stroke="#d9c7b0"/>
+<text x="90" y="414" class="section">二、机制：农业社会怎样形成可持续调度的国家资源</text>
+<rect x="92" y="447" width="256" height="148" rx="16" fill="#f7efe4" stroke="#d1baa0" stroke-width="1.5"/><text x="220" y="485" text-anchor="middle" class="boxHead">农业生产</text><line x1="120" y1="504" x2="320" y2="504" stroke="#d5c0a9"/><text x="220" y="536" text-anchor="middle" class="boxText">农地、农户、农时</text><text x="220" y="561" text-anchor="middle" class="boxText">持续形成农业剩余</text><path d="M220 595 V655 L800 690" stroke="#8b694e" stroke-width="2" fill="none" stroke-opacity=".65"/>
+<rect x="382" y="447" width="256" height="148" rx="16" fill="#f7efe4" stroke="#d1baa0" stroke-width="1.5"/><text x="510" y="485" text-anchor="middle" class="boxHead">编户与县政</text><line x1="410" y1="504" x2="610" y2="504" stroke="#d5c0a9"/><text x="510" y="536" text-anchor="middle" class="boxText">登记家庭与土地</text><text x="510" y="561" text-anchor="middle" class="boxText">核查租赋和责任</text><path d="M510 595 V655 L800 690" stroke="#8b694e" stroke-width="2" fill="none" stroke-opacity=".65"/>
+<rect x="672" y="447" width="256" height="148" rx="16" fill="#f7efe4" stroke="#d1baa0" stroke-width="1.5"/><text x="800" y="485" text-anchor="middle" class="boxHead">粮仓与运输</text><line x1="700" y1="504" x2="900" y2="504" stroke="#d5c0a9"/><text x="800" y="536" text-anchor="middle" class="boxText">本地储粮、跨地调度</text><text x="800" y="561" text-anchor="middle" class="boxText">连接军政供应</text><path d="M800 595 V655 L800 690" stroke="#8b694e" stroke-width="2" fill="none" stroke-opacity=".65"/>
+<rect x="962" y="447" width="256" height="148" rx="16" fill="#f7efe4" stroke="#d1baa0" stroke-width="1.5"/><text x="1090" y="485" text-anchor="middle" class="boxHead">赋役与兵员</text><line x1="990" y1="504" x2="1190" y2="504" stroke="#d5c0a9"/><text x="1090" y="536" text-anchor="middle" class="boxText">征税、服役、动员</text><text x="1090" y="561" text-anchor="middle" class="boxText">农户也是劳力来源</text><path d="M1090 595 V655 L800 690" stroke="#8b694e" stroke-width="2" fill="none" stroke-opacity=".65"/>
+<rect x="1252" y="447" width="256" height="148" rx="16" fill="#f7efe4" stroke="#d1baa0" stroke-width="1.5"/><text x="1380" y="485" text-anchor="middle" class="boxHead">军功与赏罚</text><line x1="1280" y1="504" x2="1480" y2="504" stroke="#d5c0a9"/><text x="1380" y="536" text-anchor="middle" class="boxText">把奖惩与军功联结</text><text x="1380" y="561" text-anchor="middle" class="boxText">增强组织与激励</text><path d="M1380 595 V655 L800 690" stroke="#8b694e" stroke-width="2" fill="none" stroke-opacity=".65"/>
+<rect x="240" y="680" width="1120" height="111" rx="18" fill="#e8d5bb" stroke="#c2a180" stroke-width="2"/>
+<text x="800" y="725" text-anchor="middle" class="cap">农业剩余与国家组织能力相互强化</text>
+<text x="800" y="761" text-anchor="middle" class="capSub">国家的征收、仓储和动员更有效；但这种能力并不意味着统一必然成功</text>
+<rect x="90" y="813" width="1420" height="34" rx="12" fill="#f4ece0"/>
+<text x="800" y="835" text-anchor="middle" class="note">研究示意｜六国亦有制度改革；秦之优势的形成还受到地理、外交、战争决策和对手选择等因素影响</text>
+</svg>
