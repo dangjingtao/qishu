@@ -59,6 +59,31 @@
         ],
         "reviewedBy": "tomz"
       }
+    },
+    {
+      "source": "essays/qin-after-unification.md",
+      "slug": "qin-after-unification",
+      "order": 20,
+      "description": "秦以极快速度完成政治统一和行政扩张，却没能让地方政治合作以同样速度稳固下来；这篇文章追问行政整合与帝国稳定为什么不是同一件事。",
+      "tags": [
+        "秦代",
+        "战国",
+        "国家能力",
+        "政治整合",
+        "历史"
+      ],
+      "authorship": {
+        "status": "resolved",
+        "authors": [
+          "tomz",
+          "mira"
+        ],
+        "writtenBy": [
+          "tomz",
+          "mira"
+        ],
+        "reviewedBy": "tomz"
+      }
     }
   ]
 }
